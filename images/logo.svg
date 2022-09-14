@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 391.27 405"  style="fill: rgb(0, 0, 0);" role="img">
+      <style>
+            .name {
+                  font-weight: 700;
+                  font-style: normal;
+                  color: rgb(251, 220, 106);
+                  text-decoration: none;
+                  fill: currentColor;
+
+                  font-size: 55.9993px;
+                  color: rgb(251, 220, 106);
+                  line-height: 78px;
+                  font-family: sans-serif;
+            }
+      </style>
+      <g>
+            <path d="M195.63 109.83L132.22 109.83 0 338.85 190.23 338.85 227.34 274.57 201.03 229.02 195.63 219.66 190.23 229.02 158.52 283.93 95.12 283.93z" style="fill: rgb(251, 220, 106);"></path>
+            <path d="M391.27 338.85L293.45 169.42 195.63 0 163.93 54.92 178.52 80.19 195.63 109.83 213.03 139.96 296.15 283.93 313.26 313.57 327.86 338.85z" style="fill: rgb(118, 5, 4);"></path>
+            <path d="M195.63 109.83L146.39 135.84 43.78 313.57 95.12 283.93z" style="fill: rgb(177, 43, 36);"></path>
+            <path d="M43.78 313.57L0 338.85 188.3 338.85 174.59 313.57z" style="fill: rgb(177, 43, 36);"></path>
+            <path d="M158.52 283.93L174.59 313.57 191.07 283.93 197.57 272.24 195.63 219.66 158.52 283.93z" style="fill: rgb(177, 43, 36);"></path>
+            <path d="M213.03 139.96L296.15 283.93 313.26 313.57 327.86 338.85 391.27 338.85 347.49 313.57 195.63 50.55 163.93 54.92 178.52 80.19 195.63 109.83z" style="fill: rgb(208, 72, 58);"></path>
+            <path d="M195.63 50.55L195.63 0 163.93 54.92z" style="fill: rgb(251, 220, 106);"></path>
+      </g>
+      <g>
+            <text x="10" y="400" class="name">Debanjan Das</text>
+      </g>
+</svg>
+
