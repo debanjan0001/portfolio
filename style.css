@@ -15,7 +15,7 @@ body{
 #header{
       width:100%;
       height: 100vh;
-      background-image: url(images/.jpg);
+      /* background-image: url(images/.jpg); */
       background-size: cover;
       background-position: center;
       overflow: auto;
@@ -366,7 +366,7 @@ nav .fas{
             display: block;
       }
       #header{
-            background-image: url(images/11.JPG);
+            background-image: url(images/11.jpg);
       }
       .header-text{
             margin-top: 100%;
